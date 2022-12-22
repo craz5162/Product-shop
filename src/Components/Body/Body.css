@@ -1,0 +1,39 @@
+*{
+      padding: 0px;
+      margin: 0px;
+      box-sizing: border-box;
+}
+.body{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 50px;
+}
+.left-site-body{
+      padding-left: 150px;
+}
+.left-site-body h1{
+      font-size: 50px;
+      font-weight: bolder;
+}
+.left-site-body p{
+      margin-top: 8px;
+}
+.left-site-body button{
+      background-color: darkorange;
+      border: none;
+      padding: 15px 50px;
+      margin-top: 20px;
+      color: white;
+      font-weight: bolder;
+      font-size: 18px;
+      border-radius: 6px;
+}
+.right-site-body{
+      padding-right: 150px;
+}
+.right-site-body img{
+      width: 350px;
+}
+
+

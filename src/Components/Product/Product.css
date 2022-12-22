@@ -1,0 +1,32 @@
+.product{
+      border: 2px solid red;
+      height: 550px;
+      position: relative;
+}
+.product img{
+      width: 350px;
+      padding: 15px;
+      border-radius: 20px;
+}
+.product h3{
+      padding-left: 20px;
+}
+.product p{
+      padding-left: 20px;
+      margin-top: 10px;
+}
+.product button{
+      background-color: gray;
+      padding: 10px 40px;
+      width: 100%;
+      border: none;
+      color: white;
+      font-weight: bolder;
+      position: absolute;
+      bottom: 0px;
+}
+
+
+@media only screen and (max-width:500){
+      
+}
